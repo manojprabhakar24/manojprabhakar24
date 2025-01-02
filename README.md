@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Intresting projects**
 
-- 💬 Ask me about **react,nodejs,javascript**
+- 💬 Ask me about **Dart,Flutter,Firebase**
 
 - 📫 How to reach me **manojptn16@gmail.com**
 
